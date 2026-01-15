@@ -61,3 +61,8 @@ class VoronoiDiagram(Scene):
         self.add(vor, axes, points)
 
  ```
+
+
+ ## Youtube Channels:
+  - ## [tamaschque](https://www.youtube.com/@tamaschque) (Main)
+  - ## [tama](https://www.youtube.com/@tamasque) (Second)
