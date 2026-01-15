@@ -1,6 +1,6 @@
 # Manim-VoronoiCells
 
-A simple class that generates a voronoi diagram (voronoi tessellation) around given points. (Growing from Circles no implemented)
+A simple class that generates a voronoi diagram (voronoi tessellation) around given points. (Growing from Circles no implemented). For more detailed documentation see the source code.
 
 <div align="center">
     <img src="showcase.gif" alt="Voronoi Cells Demo" width="200">
@@ -17,7 +17,7 @@ A simple class that generates a voronoi diagram (voronoi tessellation) around gi
 
  ## Example:
  ```
- lass VoronoiDiagram(Scene):
+class VoronoiDiagram(Scene):
     def construct(self):
 
         amount = 20
